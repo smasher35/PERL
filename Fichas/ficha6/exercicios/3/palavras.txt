@@ -1,0 +1,6 @@
+Um script é um ficheiro de texto que contém uma série de instruções, que se pode
+executar em linhas de comandos, e que são executados sequencialmente. Nesse sentido
+são como os ficheiros de extensão BAT do MS-DOS, sendo que como nos sistemas
+UNIX, não existe o conceito de extensão, os ficheiros scripts podem ter qualquer nome.
+Contudo, por forma a rapidamente identificar os ficheiros script PERL, esses terão
+todos a extensão .pl (convenção quase universal, no que respeita a ficheiro PERL).

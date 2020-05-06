@@ -1,0 +1,7 @@
+rua
+casa
+sol
+frio
+chuva
+chapéu
+livro

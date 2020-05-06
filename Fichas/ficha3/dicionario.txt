@@ -1,0 +1,5 @@
+rua-street
+casa-home
+sol-sun
+frio-cold
+chuva-rain

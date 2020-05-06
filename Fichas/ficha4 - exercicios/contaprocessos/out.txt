@@ -1,0 +1,14 @@
+ -> syslog 1 <- 
+ -> statd 1 <- 
+ -> rtkit 1 <- 
+ -> root 85 <- 
+ -> USER 1 <- 
+ -> colord 1 <- 
+ -> 103 1 <- 
+ -> daemon 1 <- 
+ -> avahi 2 <- 
+ -> smasher 72 <- 
+==========================================================
+O número total de processos é ---> 166
+
+
